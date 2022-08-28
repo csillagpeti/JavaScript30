@@ -7,7 +7,7 @@ Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 ## CsP solutions
-Grab the course at [01 - Drum kit](./01%20-%20JavaScript%20Drum%20Kit/index.html)
+[01 - Drum kit](./01%20-%20JavaScript%20Drum%20Kit/index.html)
 
 ## Community #JavaScript30 Content
 
